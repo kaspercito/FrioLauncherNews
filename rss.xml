@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     version="2.0">
+
+<channel>
+<title>Frio Launcher Noticias</title>
+<link>https://github.com/kaspercito/FrioLauncher</link>
+
+<item>
+<title>❄️ ¡Bienvenido a FrioLauncher!</title>
+<content:encoded><![CDATA[
+<p>Gracias por probar FrioLauncher.</p>
+<p>Este launcher está optimizado para ofrecerte la mejor experiencia con diferentes modpacks.</p>
+<p>Puedes descargar la última versión desde la sección oficial de releases.</p>
+]]></content:encoded>
+<dc:creator>Kaspercito</dc:creator>
+<pubDate>24 Nov 2025 10:30:00</pubDate>
+<slash:comments>2025</slash:comments>
+</item>
+
+<item>
+<title>🛠️ Nueva actualización disponible</title>
+<content:encoded><![CDATA[
+<p>Incluye mejoras de rendimiento, correcciones de errores y soporte para futuras versiones del servidor.</p>
+<ul>
+  <li>Más estabilidad</li>
+  <li>Carga más rápida</li>
+  <li>Mejor compatibilidad de mods</li>
+</ul>
+]]></content:encoded>
+<dc:creator>Kaspercito</dc:creator>
+<pubDate>25 Nov 2025 01:14:00</pubDate>
+</item>
+
+</channel>
+</rss>
