@@ -34,5 +34,19 @@
 <pubDate>25 Nov 2025 01:14:00</pubDate>
 </item>
 
+<item>
+<title>🛠️ Nueva actualización disponible</title>
+<content:encoded><![CDATA[
+<p>Cambio de diseño en skin del HUD.</p>
+<ul>
+  <li>Más estabilidad</li>
+  <li>Carga más rápida</li>
+  <li>Funcionamiento de noticias</li>
+</ul>
+]]></content:encoded>
+<dc:creator>Kaspercito</dc:creator>
+<pubDate>25 Nov 2025 01:49:00</pubDate>
+</item>
+
 </channel>
 </rss>
